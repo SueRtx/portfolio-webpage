@@ -2,8 +2,8 @@ body {
   background-color: rgb(228, 201, 221);
 }
 .me {
-  font-size: 70px;
-  margin-left:50%;
+  font-size: 100px;
+  margin-left:40%;
   text-align: center;
   color: rgb(111, 56, 161);
   width: 45%;
@@ -13,7 +13,7 @@ body {
   background-color: rgb(236, 185, 221);
 }
 .img {
-  margin-left: 7%;
+  margin-left: 15%;
   float:left;
   width: 14%;
   
@@ -22,7 +22,7 @@ body {
   background-color: rgb(236, 185, 221);
 }
 h1 {
-  font-size: 180px;
+  font-size: 280px;
   color: rgb(144, 41, 122);
   text-align: center;
 }
@@ -80,6 +80,22 @@ h2 {
   margin: auto;
   margin-top: -2%;
   margin-bottom: 10px;
+  width: 30%;
+  display: block;
+  color: rgb(114, 13, 43);
+}
+.about {
+  font-size: 250px;
+  margin-left: 10%;
+  text-align: left;
+  color: rgb(184, 75, 151);
+}
+.interest {
+  font-size: 100px;
+  text-align: center;
+  color: rgb(57, 137, 161);
+  
+}
 
 
 
@@ -88,12 +104,4 @@ h2 {
  
   
 
-  .Future {
-    width: 50%;
-    border: solid rgb(112, 17, 17);
-    border-width: 5px;
-    padding: 4px;
-    background-color: rgb(148, 224, 207);
-    margin-bottom: 10px;
-    box-sizing: border-box;
-  }
+  
