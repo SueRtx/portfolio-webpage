@@ -1,15 +1,6 @@
 body {
   background-color: rgb(228, 201, 221);
 }
-.img {
-  margin-left: 7%;
-  float:left;
-  width: 14%;
-  border: 2px solid rgb(102, 152, 165);
-  border-width: 20px;
-  background-color: rgb(236, 185, 221);
-
-}
 .me {
   font-size: 70px;
   margin-left:50%;
@@ -21,32 +12,81 @@ body {
   border-width: 20px;
   background-color: rgb(236, 185, 221);
 }
-
-.colum {
-  width: 30%;
-  float: left;
-  margin: 15px; 
+.img {
+  margin-left: 7%;
+  float:left;
+  width: 14%;
+  
+  border: 2px solid rgb(102, 152, 165);
+  border-width: 20px;
+  background-color: rgb(236, 185, 221);
 }
+h1 {
+  font-size: 180px;
+  color: rgb(144, 41, 122);
+  text-align: center;
+}
+h2 {
+  width: 70%;
+  text-align: left;
+  font-size: 90px;
+}
+.column {
+  float: left;
+  margin: 38px;
+}
+.education {
+  font-size:50px;
+  text-align: left;
+  width: 31%;
+  border: solid rgb(20, 67, 121);
+  border-width: 20px;
+  background-color: rgb(206, 150, 192);
+  padding: 50px;
+  margin-left: 2%;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+}
+.experiences {
+  font-size: 50px;
+  text-align: left;
+  width: 31%;
+  border: solid rgb(116, 41, 97);
+  border-width: 20px;
+  background-color: rgb(185, 127, 168);
+  padding: 50px;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+}
+.skills {
+  font-size: 50px;
+  text-align: left;
+  width: 31%;
+  padding: 20px;
+  border: solid rgb(20, 67, 121);
+  border-width: 20px;
+  background-color: rgb(206, 150, 192);
+  padding: 50px;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+}
+.project {
+  font-size: 50px;
+  text-align: left;
+  border: 2px solid rgb(127, 189, 204);
+  border-width: 20px;
+  background-color: rgb(223, 183, 217);
+  padding: 50px;
+  margin: auto;
+  margin-top: -2%;
+  margin-bottom: 10px;
 
-  .History {
-    width: 50%;
-    border: solid red;
-    border-width: 5px;
-    padding: 4px;
-    background-color: rgb(212, 240, 247);
-    margin-bottom: 5px;
-    box-sizing: border-box;
-  }
 
-  .Now {
-    width: 50%;
-    border: solid rgb(82, 76, 155);
-    border-width: 5px;
-    padding: 4px;
-    background-color: rgb(176, 226, 238);
-    margin-bottom: 10px;
-    box-sizing: border-box;
-  }
+
+
+
+ 
+  
 
   .Future {
     width: 50%;
