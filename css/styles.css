@@ -1,3 +1,27 @@
+body {
+  background-color: rgb(228, 201, 221);
+}
+.img {
+  margin-left: 7%;
+  float:left;
+  width: 14%;
+  border: 2px solid rgb(102, 152, 165);
+  border-width: 20px;
+  background-color: rgb(236, 185, 221);
+
+}
+.me {
+  font-size: 70px;
+  margin-left:50%;
+  text-align: center;
+  color: rgb(111, 56, 161);
+  width: 45%;
+  padding: 50px;
+  border: 2px solid rgb(102, 152, 165);
+  border-width: 20px;
+  background-color: rgb(236, 185, 221);
+}
+
 .colum {
   width: 30%;
   float: left;
