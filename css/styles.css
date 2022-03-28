@@ -74,8 +74,8 @@ h2 {
   border: 2px solid rgb(127, 189, 204);
   border-width: 20px;
   background-color: rgb(223, 183, 217);
-  padding: 50px;
-  margin-left: 20%;
+  padding: 20px;
+  margin-left: 40%;
   margin-top: -2%;
   margin-bottom: 10px;
   width: 50%;
@@ -88,13 +88,10 @@ h2 {
   text-align: left;
   color: rgb(184, 75, 151);
 }
-.interest {
-  font-size: 100px;
-  text-align: center;
-  color: rgb(57, 137, 161);
-  
-}
 
+.highlight {
+  color: red;
+}
 
 
 
