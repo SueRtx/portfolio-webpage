@@ -16,7 +16,6 @@ body {
   margin-left: 15%;
   float:left;
   width: 14%;
-  
   border: 2px solid rgb(102, 152, 165);
   border-width: 20px;
   background-color: rgb(236, 185, 221);
@@ -71,16 +70,15 @@ h2 {
   box-sizing: border-box;
 }
 .project {
-  font-size: 50px;
-  text-align: left;
+  font-size: 70px;
   border: 2px solid rgb(127, 189, 204);
   border-width: 20px;
   background-color: rgb(223, 183, 217);
   padding: 50px;
-  margin: auto;
+  margin-left: 20%;
   margin-top: -2%;
   margin-bottom: 10px;
-  width: 30%;
+  width: 50%;
   display: block;
   color: rgb(114, 13, 43);
 }
