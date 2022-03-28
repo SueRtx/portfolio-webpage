@@ -15,7 +15,7 @@ body {
 .img {
   margin-left: 15%;
   float:left;
-  width: 14%;
+  width: 10%;
   border: 2px solid rgb(102, 152, 165);
   border-width: 20px;
   background-color: rgb(236, 185, 221);
@@ -70,12 +70,12 @@ h2 {
   box-sizing: border-box;
 }
 .project {
-  font-size: 70px;
+  font-size: 80px;
   border: 2px solid rgb(127, 189, 204);
   border-width: 20px;
   background-color: rgb(223, 183, 217);
-  padding: 20px;
-  margin-left: 40%;
+  padding-left: 120px;
+  margin-left: 30%;
   margin-top: -2%;
   margin-bottom: 10px;
   width: 50%;
@@ -88,7 +88,6 @@ h2 {
   text-align: left;
   color: rgb(184, 75, 151);
 }
-
 .highlight {
   color: red;
 }
