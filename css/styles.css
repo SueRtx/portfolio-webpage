@@ -79,7 +79,7 @@ h2 {
   margin-top: 40%;
   width: 80%;
   display: block;
-  
+  box-sizing: border-box;
 }
 .about {
   font-size: 30px;
